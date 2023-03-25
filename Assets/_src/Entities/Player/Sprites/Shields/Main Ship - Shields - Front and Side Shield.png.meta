@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fcad80967dacb9f438c8f37c4c637216
+guid: f59e213831f621a488bc2aac9214451f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -117,190 +117,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_0
+      name: Main Ship - Shields - Front and Side Shield_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 256
-        width: 101
-        height: 56
+        x: 7
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d97c8da70f17a694ea342369e1905f48
-      internalID: -336753023
+      spriteID: 413cc73ead565ab488e62ee4000cd598
+      internalID: 561446006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_1
+      name: Main Ship - Shields - Front and Side Shield_1
       rect:
         serializedVersion: 2
-        x: 689
-        y: 256
-        width: 99
-        height: 56
+        x: 71
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34c76dbafcfb9be46b6f4e14ba7e436b
-      internalID: 1764656397
+      spriteID: 5c20138877e3c2d4ca4ccfd51ee63872
+      internalID: 787089739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_2
+      name: Main Ship - Shields - Front and Side Shield_2
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 256
-        width: 99
-        height: 56
+        x: 135
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88300707ea620f498e33bd8191dccb9
-      internalID: 1002825128
+      spriteID: fcfc90f0672ec72429e9140c1326534f
+      internalID: -1362945226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_3
+      name: Main Ship - Shields - Front and Side Shield_3
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 256
-        width: 98
-        height: 56
+        x: 199
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1763143c0b027324287cbbfe65a3dc6c
-      internalID: -682046215
+      spriteID: 296fd19aa6a275f458c2d46b41373eb1
+      internalID: -1222142123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_4
+      name: Main Ship - Shields - Front and Side Shield_4
       rect:
         serializedVersion: 2
-        x: 2607
-        y: 256
-        width: 101
-        height: 56
+        x: 263
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 541f6031f089add4fbd8eb1948856159
-      internalID: 124890481
+      spriteID: a9f03559219779747baead010679d12c
+      internalID: -1979997973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_6
+      name: Main Ship - Shields - Front and Side Shield_5
       rect:
         serializedVersion: 2
-        x: 3254
-        y: 256
-        width: 93
-        height: 56
+        x: 327
+        y: 19
+        width: 50
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1c39be6d210e145aac593103e0645a
-      internalID: 875143231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_7
-      rect:
-        serializedVersion: 2
-        x: 3890
-        y: 256
-        width: 98
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a09fcebefe2bd5e4ca90643760f3fea8
-      internalID: 1754159847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_8
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 245
-        width: 101
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48c1e54ce786c984d95db981523ce209
-      internalID: 2146797302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_9
-      rect:
-        serializedVersion: 2
-        x: 5169
-        y: 256
-        width: 99
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 628192c3a4926f141bf6a97868b24eb1
-      internalID: 2080769703
+      spriteID: e6bd0fbec2e684e438d5f5de115e7de4
+      internalID: 93677228
       vertices: []
       indices: 
       edges: []
@@ -316,25 +253,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Starry background - Layer X -Rotary Star_9: 2080769703
-      Starry background - Layer X -Rotary Star_16: 323888862
-      Starry background - Layer X -Rotary Star_0: -336753023
-      Starry background - Layer X -Rotary Star_1: 1764656397
-      Starry background - Layer X -Rotary Star_11: -1316746982
-      Starry background - Layer X -Rotary Star_2: 1002825128
-      Starry background - Layer X -Rotary Star_4: 124890481
-      Starry background - Layer X -Rotary Star_14: -1002691090
-      Starry background - Layer X -Rotary Star_18: -1753749812
-      Starry background - Layer X -Rotary Star_3: -682046215
-      Starry background - Layer X -Rotary Star_13: -449817356
-      Starry background - Layer X -Rotary Star_6: 875143231
-      Starry background - Layer X -Rotary Star_15: 1751603248
-      Starry background - Layer X -Rotary Star_8: 2146797302
-      Starry background - Layer X -Rotary Star_12: 1103346739
-      Starry background - Layer X -Rotary Star_17: -433261731
-      Starry background - Layer X -Rotary Star_10: -1180993906
-      Starry background - Layer X -Rotary Star_5: -937342968
-      Starry background - Layer X -Rotary Star_7: 1754159847
+      Main Ship - Shields - Front and Side Shield_0: 561446006
+      Main Ship - Shields - Front and Side Shield_4: -1979997973
+      Main Ship - Shields - Front and Side Shield_2: -1362945226
+      Main Ship - Shields - Front and Side Shield_1: 787089739
+      Main Ship - Shields - Front and Side Shield_5: 93677228
+      Main Ship - Shields - Front and Side Shield_3: -1222142123
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fcad80967dacb9f438c8f37c4c637216
+guid: 390b3f73f3f594248bc9638583da35c4
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -117,190 +117,148 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_0
+      name: Main Ship - Weapons - Auto Cannon_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 256
-        width: 101
-        height: 56
+        x: 12
+        y: 16
+        width: 24
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d97c8da70f17a694ea342369e1905f48
-      internalID: -336753023
+      spriteID: 73ec3c44a52d5e4419ef32fc1ccfe3e9
+      internalID: 1572115869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_1
+      name: Main Ship - Weapons - Auto Cannon_1
       rect:
         serializedVersion: 2
-        x: 689
-        y: 256
-        width: 99
-        height: 56
+        x: 60
+        y: 16
+        width: 24
+        height: 24
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34c76dbafcfb9be46b6f4e14ba7e436b
-      internalID: 1764656397
+      spriteID: 6a8339ac18a0f2643b24f9f60621c5f3
+      internalID: 1171428784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_2
+      name: Main Ship - Weapons - Auto Cannon_2
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 256
-        width: 99
-        height: 56
+        x: 108
+        y: 16
+        width: 24
+        height: 26
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88300707ea620f498e33bd8191dccb9
-      internalID: 1002825128
+      spriteID: cc559df75fa6bf74ca01f1469d2716bd
+      internalID: -671200964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_3
+      name: Main Ship - Weapons - Auto Cannon_3
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 256
-        width: 98
-        height: 56
+        x: 154
+        y: 16
+        width: 26
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1763143c0b027324287cbbfe65a3dc6c
-      internalID: -682046215
+      spriteID: cc1d4ff9015f1bf4dbcc19c30d9c60d4
+      internalID: 120858301
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_4
+      name: Main Ship - Weapons - Auto Cannon_4
       rect:
         serializedVersion: 2
-        x: 2607
-        y: 256
-        width: 101
-        height: 56
+        x: 201
+        y: 16
+        width: 29
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 541f6031f089add4fbd8eb1948856159
-      internalID: 124890481
+      spriteID: e864e313d9f0873448f23fe6f26f22b1
+      internalID: 509656064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_6
+      name: Main Ship - Weapons - Auto Cannon_5
       rect:
         serializedVersion: 2
-        x: 3254
-        y: 256
-        width: 93
-        height: 56
+        x: 252
+        y: 16
+        width: 27
+        height: 21
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1c39be6d210e145aac593103e0645a
-      internalID: 875143231
+      spriteID: a2ff5c82a4f244247a518eee4574d961
+      internalID: -121486089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_7
+      name: Main Ship - Weapons - Auto Cannon_6
       rect:
         serializedVersion: 2
-        x: 3890
-        y: 256
-        width: 98
-        height: 56
+        x: 300
+        y: 16
+        width: 24
+        height: 17
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fcebefe2bd5e4ca90643760f3fea8
-      internalID: 1754159847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_8
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 245
-        width: 101
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48c1e54ce786c984d95db981523ce209
-      internalID: 2146797302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_9
-      rect:
-        serializedVersion: 2
-        x: 5169
-        y: 256
-        width: 99
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 628192c3a4926f141bf6a97868b24eb1
-      internalID: 2080769703
+      spriteID: 10d4531e64ba8a84cbdab06b337a4948
+      internalID: -1440189596
       vertices: []
       indices: 
       edges: []
@@ -316,25 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Starry background - Layer X -Rotary Star_9: 2080769703
-      Starry background - Layer X -Rotary Star_16: 323888862
-      Starry background - Layer X -Rotary Star_0: -336753023
-      Starry background - Layer X -Rotary Star_1: 1764656397
-      Starry background - Layer X -Rotary Star_11: -1316746982
-      Starry background - Layer X -Rotary Star_2: 1002825128
-      Starry background - Layer X -Rotary Star_4: 124890481
-      Starry background - Layer X -Rotary Star_14: -1002691090
-      Starry background - Layer X -Rotary Star_18: -1753749812
-      Starry background - Layer X -Rotary Star_3: -682046215
-      Starry background - Layer X -Rotary Star_13: -449817356
-      Starry background - Layer X -Rotary Star_6: 875143231
-      Starry background - Layer X -Rotary Star_15: 1751603248
-      Starry background - Layer X -Rotary Star_8: 2146797302
-      Starry background - Layer X -Rotary Star_12: 1103346739
-      Starry background - Layer X -Rotary Star_17: -433261731
-      Starry background - Layer X -Rotary Star_10: -1180993906
-      Starry background - Layer X -Rotary Star_5: -937342968
-      Starry background - Layer X -Rotary Star_7: 1754159847
+      Main Ship - Weapons - Auto Cannon_3: 120858301
+      Main Ship - Weapons - Auto Cannon_6: -1440189596
+      Main Ship - Weapons - Auto Cannon_4: 509656064
+      Main Ship - Weapons - Auto Cannon_1: 1171428784
+      Main Ship - Weapons - Auto Cannon_0: 1572115869
+      Main Ship - Weapons - Auto Cannon_2: -671200964
+      Main Ship - Weapons - Auto Cannon_5: -121486089
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

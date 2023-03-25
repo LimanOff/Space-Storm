@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fcad80967dacb9f438c8f37c4c637216
+guid: 9e1a04e8f3186b046800f0c6cc368261
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -117,190 +117,211 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_0
+      name: Main Ship - Shields - Invincibility Shield_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 256
-        width: 101
-        height: 56
+        x: 16
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d97c8da70f17a694ea342369e1905f48
-      internalID: -336753023
+      spriteID: 097e26e98727c334084b8203f1994c55
+      internalID: -966998537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_1
+      name: Main Ship - Shields - Invincibility Shield_1
       rect:
         serializedVersion: 2
-        x: 689
-        y: 256
-        width: 99
-        height: 56
+        x: 80
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34c76dbafcfb9be46b6f4e14ba7e436b
-      internalID: 1764656397
+      spriteID: 1f4423f95f155d6498c40491ca7e73ef
+      internalID: -244439679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_2
+      name: Main Ship - Shields - Invincibility Shield_2
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 256
-        width: 99
-        height: 56
+        x: 144
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88300707ea620f498e33bd8191dccb9
-      internalID: 1002825128
+      spriteID: ffe0a8af9a6032f4db63fc68fc109d6a
+      internalID: -1011011668
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_3
+      name: Main Ship - Shields - Invincibility Shield_3
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 256
-        width: 98
-        height: 56
+        x: 208
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1763143c0b027324287cbbfe65a3dc6c
-      internalID: -682046215
+      spriteID: 98211038d6506e3419cb27156db4eca8
+      internalID: 1201272259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_4
+      name: Main Ship - Shields - Invincibility Shield_4
       rect:
         serializedVersion: 2
-        x: 2607
-        y: 256
-        width: 101
-        height: 56
+        x: 272
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 541f6031f089add4fbd8eb1948856159
-      internalID: 124890481
+      spriteID: 6887d3233202ff8429a671e40cfe2f21
+      internalID: -213588449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_6
+      name: Main Ship - Shields - Invincibility Shield_5
       rect:
         serializedVersion: 2
-        x: 3254
-        y: 256
-        width: 93
-        height: 56
+        x: 336
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1c39be6d210e145aac593103e0645a
-      internalID: 875143231
+      spriteID: adaadb3cce7d98841841d769d0ce316a
+      internalID: 52002742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_7
+      name: Main Ship - Shields - Invincibility Shield_6
       rect:
         serializedVersion: 2
-        x: 3890
-        y: 256
-        width: 98
-        height: 56
+        x: 400
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fcebefe2bd5e4ca90643760f3fea8
-      internalID: 1754159847
+      spriteID: 32b65c80a98adb04eb48bfef6caebb77
+      internalID: -1901649123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_8
+      name: Main Ship - Shields - Invincibility Shield_7
       rect:
         serializedVersion: 2
-        x: 4528
-        y: 245
-        width: 101
-        height: 67
+        x: 464
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c1e54ce786c984d95db981523ce209
-      internalID: 2146797302
+      spriteID: 798cc5dbe5a467449918f443d468c5af
+      internalID: 1275176325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_9
+      name: Main Ship - Shields - Invincibility Shield_8
       rect:
         serializedVersion: 2
-        x: 5169
-        y: 256
-        width: 99
-        height: 56
+        x: 528
+        y: 18
+        width: 32
+        height: 28
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 628192c3a4926f141bf6a97868b24eb1
-      internalID: 2080769703
+      spriteID: 0dad2e3e2f1b6c943be7ab1e9d1cf77b
+      internalID: -1943748884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main Ship - Shields - Invincibility Shield_9
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 18
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d2113c1bca1bd4897fd85f1ff8c76f
+      internalID: 623310283
       vertices: []
       indices: 
       edges: []
@@ -316,25 +337,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Starry background - Layer X -Rotary Star_9: 2080769703
-      Starry background - Layer X -Rotary Star_16: 323888862
-      Starry background - Layer X -Rotary Star_0: -336753023
-      Starry background - Layer X -Rotary Star_1: 1764656397
-      Starry background - Layer X -Rotary Star_11: -1316746982
-      Starry background - Layer X -Rotary Star_2: 1002825128
-      Starry background - Layer X -Rotary Star_4: 124890481
-      Starry background - Layer X -Rotary Star_14: -1002691090
-      Starry background - Layer X -Rotary Star_18: -1753749812
-      Starry background - Layer X -Rotary Star_3: -682046215
-      Starry background - Layer X -Rotary Star_13: -449817356
-      Starry background - Layer X -Rotary Star_6: 875143231
-      Starry background - Layer X -Rotary Star_15: 1751603248
-      Starry background - Layer X -Rotary Star_8: 2146797302
-      Starry background - Layer X -Rotary Star_12: 1103346739
-      Starry background - Layer X -Rotary Star_17: -433261731
-      Starry background - Layer X -Rotary Star_10: -1180993906
-      Starry background - Layer X -Rotary Star_5: -937342968
-      Starry background - Layer X -Rotary Star_7: 1754159847
+      Main Ship - Shields - Invincibility Shield_1: -244439679
+      Main Ship - Shields - Invincibility Shield_2: -1011011668
+      Main Ship - Shields - Invincibility Shield_9: 623310283
+      Main Ship - Shields - Invincibility Shield_3: 1201272259
+      Main Ship - Shields - Invincibility Shield_5: 52002742
+      Main Ship - Shields - Invincibility Shield_6: -1901649123
+      Main Ship - Shields - Invincibility Shield_7: 1275176325
+      Main Ship - Shields - Invincibility Shield_0: -966998537
+      Main Ship - Shields - Invincibility Shield_4: -213588449
+      Main Ship - Shields - Invincibility Shield_8: -1943748884
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fcad80967dacb9f438c8f37c4c637216
+guid: 9772d24e2d43d4e4e8bdddc7eddb8b47
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_0
+      name: Asteroid 01 - Explode_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 256
-        width: 101
-        height: 56
+        x: 0
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d97c8da70f17a694ea342369e1905f48
-      internalID: -336753023
+      spriteID: 2e14152829d2b9e4dbfdbee7177b4575
+      internalID: -596729856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_1
+      name: Asteroid 01 - Explode_1
       rect:
         serializedVersion: 2
-        x: 689
-        y: 256
-        width: 99
-        height: 56
+        x: 96
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34c76dbafcfb9be46b6f4e14ba7e436b
-      internalID: 1764656397
+      spriteID: 3e2b729dc06614b4bb31de51699b75bb
+      internalID: 1364591794
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_2
+      name: Asteroid 01 - Explode_2
       rect:
         serializedVersion: 2
-        x: 1330
-        y: 256
-        width: 99
-        height: 56
+        x: 192
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f88300707ea620f498e33bd8191dccb9
-      internalID: 1002825128
+      spriteID: 1c049aee14388514da6cc8543ff8997c
+      internalID: -352700402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_3
+      name: Asteroid 01 - Explode_3
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 256
-        width: 98
-        height: 56
+        x: 288
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1763143c0b027324287cbbfe65a3dc6c
-      internalID: -682046215
+      spriteID: c0a05fdfc4a71d54298ebb7485a17dd8
+      internalID: 1986259266
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_4
+      name: Asteroid 01 - Explode_4
       rect:
         serializedVersion: 2
-        x: 2607
-        y: 256
-        width: 101
-        height: 56
+        x: 384
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 541f6031f089add4fbd8eb1948856159
-      internalID: 124890481
+      spriteID: 32c303f62cd8bd047a2721b690d93e29
+      internalID: 1099216551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_6
+      name: Asteroid 01 - Explode_5
       rect:
         serializedVersion: 2
-        x: 3254
-        y: 256
-        width: 93
-        height: 56
+        x: 480
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f1c39be6d210e145aac593103e0645a
-      internalID: 875143231
+      spriteID: 27a7e6811fe867e47abca0402dd87dde
+      internalID: -1282328790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_7
+      name: Asteroid 01 - Explode_6
       rect:
         serializedVersion: 2
-        x: 3890
-        y: 256
-        width: 98
-        height: 56
+        x: 576
+        y: 0
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,50 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a09fcebefe2bd5e4ca90643760f3fea8
-      internalID: 1754159847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_8
-      rect:
-        serializedVersion: 2
-        x: 4528
-        y: 245
-        width: 101
-        height: 67
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48c1e54ce786c984d95db981523ce209
-      internalID: 2146797302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Starry background - Layer X -Rotary Star_9
-      rect:
-        serializedVersion: 2
-        x: 5169
-        y: 256
-        width: 99
-        height: 56
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 628192c3a4926f141bf6a97868b24eb1
-      internalID: 2080769703
+      spriteID: 4577dffe10a3a8147986bb8072de8ac5
+      internalID: 675267513
       vertices: []
       indices: 
       edges: []
@@ -316,25 +274,13 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Starry background - Layer X -Rotary Star_9: 2080769703
-      Starry background - Layer X -Rotary Star_16: 323888862
-      Starry background - Layer X -Rotary Star_0: -336753023
-      Starry background - Layer X -Rotary Star_1: 1764656397
-      Starry background - Layer X -Rotary Star_11: -1316746982
-      Starry background - Layer X -Rotary Star_2: 1002825128
-      Starry background - Layer X -Rotary Star_4: 124890481
-      Starry background - Layer X -Rotary Star_14: -1002691090
-      Starry background - Layer X -Rotary Star_18: -1753749812
-      Starry background - Layer X -Rotary Star_3: -682046215
-      Starry background - Layer X -Rotary Star_13: -449817356
-      Starry background - Layer X -Rotary Star_6: 875143231
-      Starry background - Layer X -Rotary Star_15: 1751603248
-      Starry background - Layer X -Rotary Star_8: 2146797302
-      Starry background - Layer X -Rotary Star_12: 1103346739
-      Starry background - Layer X -Rotary Star_17: -433261731
-      Starry background - Layer X -Rotary Star_10: -1180993906
-      Starry background - Layer X -Rotary Star_5: -937342968
-      Starry background - Layer X -Rotary Star_7: 1754159847
+      Asteroid 01 - Explode_3: 1986259266
+      Asteroid 01 - Explode_2: -352700402
+      Asteroid 01 - Explode_4: 1099216551
+      Asteroid 01 - Explode_6: 675267513
+      Asteroid 01 - Explode_0: -596729856
+      Asteroid 01 - Explode_1: 1364591794
+      Asteroid 01 - Explode_5: -1282328790
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

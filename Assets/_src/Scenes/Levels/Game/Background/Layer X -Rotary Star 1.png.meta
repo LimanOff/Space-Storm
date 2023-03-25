@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 982cf47012b1a1e4d85d38524652bdfb
+guid: 76a424b9a0907d84a86c82628be8270d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -42,13 +42,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 5295, w: 0}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_0
+      name: Starry background - Layer X -Rotary Star 1_0
       rect:
         serializedVersion: 2
-        x: 93
-        y: 20
-        width: 290
-        height: 289
+        x: 48
+        y: 256
+        width: 101
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e4d15ae0f9d66a449490e8466606772
-      internalID: 1090504825
+      spriteID: e07141512152e364fa695d0fb7b314b5
+      internalID: -1092566716
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_1
+      name: Starry background - Layer X -Rotary Star 1_1
       rect:
         serializedVersion: 2
-        x: 734
-        y: 20
-        width: 287
-        height: 289
+        x: 689
+        y: 256
+        width: 99
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef96824e03abccf4faef2de4312b6068
-      internalID: 713387566
+      spriteID: 233a44012da05404daa3a18fe2637bba
+      internalID: -1045309313
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_2
+      name: Starry background - Layer X -Rotary Star 1_2
       rect:
         serializedVersion: 2
-        x: 1373
-        y: 20
-        width: 289
-        height: 289
+        x: 1330
+        y: 256
+        width: 99
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f40f3da1775cda478586146ba6d80b9
-      internalID: -169194903
+      spriteID: 5461c45418825f445a27a32bd602d394
+      internalID: -333060596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_3
+      name: Starry background - Layer X -Rotary Star 1_3
       rect:
         serializedVersion: 2
-        x: 2014
-        y: 20
-        width: 289
-        height: 289
+        x: 1969
+        y: 256
+        width: 98
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adda90907d284514aacff67c395a65ca
-      internalID: -1683529412
+      spriteID: 2f2da027417b7f247b03ab66140f0538
+      internalID: -2001653124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_4
+      name: Starry background - Layer X -Rotary Star 1_4
       rect:
         serializedVersion: 2
-        x: 2655
-        y: 20
-        width: 287
-        height: 289
+        x: 2607
+        y: 256
+        width: 101
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3d86f93c23918e4a918495aa7087b6b
-      internalID: -1118258219
+      spriteID: 649f64af1845ce44cb5b975873eaf7e7
+      internalID: 746912324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_5
+      name: Starry background - Layer X -Rotary Star 1_6
       rect:
         serializedVersion: 2
-        x: 3293
-        y: 20
-        width: 290
-        height: 289
+        x: 3254
+        y: 256
+        width: 93
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df830cddeb86ab142955b065845293cb
-      internalID: 1106526301
+      spriteID: 58c878818338feb4fa55767d72eab2b6
+      internalID: -742834523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_6
+      name: Starry background - Layer X -Rotary Star 1_7
       rect:
         serializedVersion: 2
-        x: 3935
-        y: 20
-        width: 287
-        height: 289
+        x: 3890
+        y: 256
+        width: 98
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00fb43e28c4419042ba4ec5fabd963d5
-      internalID: -556605336
+      spriteID: 562f3137d616938488062ca3ea0421fd
+      internalID: -1696525462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_7
+      name: Starry background - Layer X -Rotary Star 1_8
       rect:
         serializedVersion: 2
-        x: 4573
-        y: 20
-        width: 290
-        height: 289
+        x: 4528
+        y: 245
+        width: 101
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db53480fbb5b052419a87390d85e2214
-      internalID: -2001726302
+      spriteID: fb1f386be8616a848bf6681c8530d895
+      internalID: 382202869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Starry background - Layer X - Big Star_8
+      name: Starry background - Layer X -Rotary Star 1_9
       rect:
         serializedVersion: 2
-        x: 5214
-        y: 20
-        width: 287
-        height: 289
+        x: 5169
+        y: 256
+        width: 99
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b92aa50ef941f3045a9f04deebd451b5
-      internalID: 1714788127
+      spriteID: 5e8bcdf1c1044be43bd1af36b1cdbc3e
+      internalID: 1634213177
       vertices: []
       indices: 
       edges: []
@@ -309,22 +309,31 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Starry background - Layer X - Big Star_1: 713387566
-      Starry background - Layer X - Big Star_8: 1714788127
-      Starry background - Layer X - Big Star_2: -169194903
-      Starry background - Layer X - Big Star_0: 1090504825
-      Starry background - Layer X - Big Star_6: -556605336
-      Starry background - Layer X - Big Star_5: 1106526301
-      Starry background - Layer X - Big Star_4: -1118258219
-      Starry background - Layer X - Big Star_3: -1683529412
-      Starry background - Layer X - Big Star_7: -2001726302
+      Starry background - Layer X -Rotary Star 1_14: 1973156164
+      Starry background - Layer X -Rotary Star 1_9: 1634213177
+      Starry background - Layer X -Rotary Star 1_12: -452728880
+      Starry background - Layer X -Rotary Star 1_17: -1269751731
+      Starry background - Layer X -Rotary Star 1_1: -1045309313
+      Starry background - Layer X -Rotary Star 1_10: 1317339418
+      Starry background - Layer X -Rotary Star 1_15: 987185441
+      Starry background - Layer X -Rotary Star 1_7: -1696525462
+      Starry background - Layer X -Rotary Star 1_16: -269648100
+      Starry background - Layer X -Rotary Star 1_8: 382202869
+      Starry background - Layer X -Rotary Star 1_2: -333060596
+      Starry background - Layer X -Rotary Star 1_11: -1056966304
+      Starry background - Layer X -Rotary Star 1_6: -742834523
+      Starry background - Layer X -Rotary Star 1_0: -1092566716
+      Starry background - Layer X -Rotary Star 1_13: -2080209720
+      Starry background - Layer X -Rotary Star 1_4: 746912324
+      Starry background - Layer X -Rotary Star 1_3: -2001653124
+      Starry background - Layer X -Rotary Star 1_5: 792806545
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
