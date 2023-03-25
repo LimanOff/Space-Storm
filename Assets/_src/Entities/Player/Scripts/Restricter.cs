@@ -12,8 +12,9 @@ public class Restricter : MonoBehaviour
 
     private void LateUpdate()
     {
-        transform.position = new Vector2
+        transform.position = new Vector3
                                  (Mathf.Clamp(transform.position.x, _minX, _maxX),
-                                  Mathf.Clamp(transform.position.y, _minY, _maxY));
+                                  Mathf.Clamp(transform.position.y, _minY, _maxY),
+			          transform.position.z);
     }
 }
